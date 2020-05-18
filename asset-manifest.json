@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zomato-home-page/static/css/main.29ce79d0.chunk.css",
-    "main.js": "/zomato-home-page/static/js/main.743778cd.chunk.js",
-    "main.js.map": "/zomato-home-page/static/js/main.743778cd.chunk.js.map",
-    "runtime-main.js": "/zomato-home-page/static/js/runtime-main.9d8537ca.js",
-    "runtime-main.js.map": "/zomato-home-page/static/js/runtime-main.9d8537ca.js.map",
-    "static/js/2.6e9bca28.chunk.js": "/zomato-home-page/static/js/2.6e9bca28.chunk.js",
-    "static/js/2.6e9bca28.chunk.js.map": "/zomato-home-page/static/js/2.6e9bca28.chunk.js.map",
-    "index.html": "/zomato-home-page/index.html",
-    "precache-manifest.10042c22373462df8aac3e6614fe7110.js": "/zomato-home-page/precache-manifest.10042c22373462df8aac3e6614fe7110.js",
-    "service-worker.js": "/zomato-home-page/service-worker.js",
-    "static/css/main.29ce79d0.chunk.css.map": "/zomato-home-page/static/css/main.29ce79d0.chunk.css.map",
-    "static/js/2.6e9bca28.chunk.js.LICENSE.txt": "/zomato-home-page/static/js/2.6e9bca28.chunk.js.LICENSE.txt"
+    "main.css": "/ZomatoHomePage/static/css/main.29ce79d0.chunk.css",
+    "main.js": "/ZomatoHomePage/static/js/main.7d64a9af.chunk.js",
+    "main.js.map": "/ZomatoHomePage/static/js/main.7d64a9af.chunk.js.map",
+    "runtime-main.js": "/ZomatoHomePage/static/js/runtime-main.c73a9533.js",
+    "runtime-main.js.map": "/ZomatoHomePage/static/js/runtime-main.c73a9533.js.map",
+    "static/js/2.6e9bca28.chunk.js": "/ZomatoHomePage/static/js/2.6e9bca28.chunk.js",
+    "static/js/2.6e9bca28.chunk.js.map": "/ZomatoHomePage/static/js/2.6e9bca28.chunk.js.map",
+    "index.html": "/ZomatoHomePage/index.html",
+    "precache-manifest.f4a197c9cc57c5f8416f87d24d588533.js": "/ZomatoHomePage/precache-manifest.f4a197c9cc57c5f8416f87d24d588533.js",
+    "service-worker.js": "/ZomatoHomePage/service-worker.js",
+    "static/css/main.29ce79d0.chunk.css.map": "/ZomatoHomePage/static/css/main.29ce79d0.chunk.css.map",
+    "static/js/2.6e9bca28.chunk.js.LICENSE.txt": "/ZomatoHomePage/static/js/2.6e9bca28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d8537ca.js",
+    "static/js/runtime-main.c73a9533.js",
     "static/js/2.6e9bca28.chunk.js",
     "static/css/main.29ce79d0.chunk.css",
-    "static/js/main.743778cd.chunk.js"
+    "static/js/main.7d64a9af.chunk.js"
   ]
 }
